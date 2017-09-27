@@ -1,0 +1,8 @@
+{
+  "name": "mediawiki/native-svg-handler",
+  "type": "mediawiki-extension",
+  "description": "Serves SVG images directly to clients",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
